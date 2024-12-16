@@ -26,7 +26,10 @@
 			"extensions": [
 				"GitHub.vscode-github-actions",
 				"rodrigovallades.es7-react-js-snippets",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"esbenp.prettier-vscode",
+				"alfredbirk.tailwind-documentation",
+				"bradlc.vscode-tailwindcss"
 			]
 		}
 	}
