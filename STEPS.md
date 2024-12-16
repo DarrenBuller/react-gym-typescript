@@ -26,3 +26,11 @@ Install vscode extensions
 "alfredbirk.tailwind-documentation",
 "bradlc.vscode-tailwindcss"
 ```
+
+# step 5
+Add prettier
+```
+npm i -D prettier prettier-plugin-tailwindcss
+```
+
+configure
