@@ -33,4 +33,8 @@ Add prettier
 npm i -D prettier prettier-plugin-tailwindcss
 ```
 
-configure
+configure prettier
+
+
+# step 6
+npm install @heroicons/react
